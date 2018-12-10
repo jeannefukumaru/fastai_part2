@@ -8,3 +8,10 @@ is lower is those 4 outputs are near to 4 other numbers
 - PathLib JSON
 - Defaultdict
 - Lambda function 
+
+TODO - learn how to navigate through fastai library source code 
+     - learn how to use Python debugger to set traces and debug code with hotkeys
+
+# Lesson 10 takeaways 
+- process text by downloading corpus, 
+- train a language model on data that learns structure of a language by taking in a token and predicting the token that comes next. 
