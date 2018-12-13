@@ -1,3 +1,10 @@
+# Lesson 6 takeaways 
+- Build a character RNN from scratch with PyTorch 
+- Understand the `Learner` class in PyTorch 
+- concatenate inputs to hidden layers instead of adding inputs together 
+- abstract the need to manually write for loops of FC layers with Pytorch's `rnn` class 
+- overwrite the randomly initialised hidden-hidden weight matrix with an identity matrix 
+
 # Lesson 8 takeaways 
 - spend time getting bounding box coordinates into useable format 
 - first step - write functions to display data and annotations to allow fast exploration 
@@ -14,4 +21,6 @@ TODO - learn how to navigate through fastai library source code
 
 # Lesson 10 takeaways 
 - process text by downloading corpus, 
-- train a language model on data that learns structure of a language by taking in a token and predicting the token that comes next. 
+- train a language model on data that learns structure of a language by taking in a token and predicting the token that comes next.
+- unfreezing layers of a pre-trained language model 
+- multi-batch RNN 
