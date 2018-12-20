@@ -1,4 +1,8 @@
 Lesson8/data/
 Lesson10/data/
+Lesson11/data/
 .DS_Store
 .ipynb_checkpoints
+trn/
+val/
+

@@ -24,3 +24,6 @@ TODO - learn how to navigate through fastai library source code
 - train a language model on data that learns structure of a language by taking in a token and predicting the token that comes next.
 - unfreezing layers of a pre-trained language model 
 - multi-batch RNN 
+
+# Lesson 11 takeaways 
+- output of (English) encoder layer h, is passed into (French) decoder along with previous French word predicted by the decoder 
